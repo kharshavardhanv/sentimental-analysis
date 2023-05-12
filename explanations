@@ -1,0 +1,11 @@
+//Python Libraries
+
+tweepy: A library for interacting with the Twitter API.
+textblob: A library for processing textual data, including sentiment analysis, part-of-speech tagging, and noun phrase extraction.
+WordCloud: A library for creating word clouds, which are visual representations of text data where the size of each word is proportional to its frequency in the text.
+pandas: A library for data manipulation and analysis.
+numpy: A library for mathematical operations and array processing.
+re: A library for working with regular expressions, which are patterns used to match and manipulate text.
+matplotlib: A library for creating data visualizations in Python.
+   [The last line (plt.style.use('fivethirtyeight')) sets the style of the plots that will be generated with matplotlib. In this case, the style is set to 
+   "fivethirtyeight," which is a popular style for data visualizations that originated from the website FiveThirtyEight.]
